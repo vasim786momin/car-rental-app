@@ -1,16 +1,7 @@
 # car_rental
 
-A new Flutter project.
+This is car rental app ui design ussing flutter.
 
-## Getting Started
+![Screenshot_20210316_142401](https://user-images.githubusercontent.com/16721538/111283141-d0a11000-8664-11eb-99d6-f51e4342197f.jpg)
+![Screenshot_20210316_142409](https://user-images.githubusercontent.com/16721538/111283165-d565c400-8664-11eb-9fa6-5b03c7254eae.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
